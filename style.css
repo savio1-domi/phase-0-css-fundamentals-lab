@@ -19,6 +19,35 @@ center {
   margin-right: auto;
   width: 50%;
 }
+img {
+  display: block;
+  margin: 0 auto;
+}
+nav {
+  text-align: center;
+}
+figcaption {
+  text-align: center;
+  font-size: 12px;
+}
+nav a {
+  padding: 0 10px;
+  background-color: grey;
+  margin: 0 auto;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: 8px auto;
+}
+
+#details div{
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+}
 
 
 
